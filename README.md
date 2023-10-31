@@ -7,4 +7,4 @@
 1. npx cypress open in terminal
 2. Select E2E testing
 3. Select browser then Start E2E Testing
-4. Cypress app opens. Select specs -> Pagination.feature
+4. Cypress app opens. Select e2e -> BDD_Cucumber -> Pagination.feature -> Pagination.js
